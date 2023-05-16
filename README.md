@@ -1,5 +1,5 @@
 # Desafio Construindo uma Pokédex com JavaScript
 
-##Incrementando a pokedex 
+## Incrementando a pokedex 
 By: Vitor Hugo Kuhn Zary
 
